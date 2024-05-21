@@ -2,7 +2,15 @@
    Meu nome é Kaue Macedo
 
  > Sou aluno do Alura
+
+
+
+
  > Estou me desenvovendo na liguagem JavaScript
+
+
+
+
  > Utilizo esse espaco para compati;har meus projetos
 
 
